@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-This project revolves around the creation of an AI Article Summarizer powered by GPT-4, implemented using React JS and Redux Toolkit. The primary objectives include:
+This project revolves around the creation of an AI Article Summarizer powered by GPT-4 (Article Extractor and Summarizer API from Rapid API), implemented using React JS and Redux Toolkit. The primary objectives include:
 
 - **ReactJS Setup with Vite**: Established a ReactJS project seamlessly using the Vite build tool, ensuring a smooth and efficient development environment.
 
