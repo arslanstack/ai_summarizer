@@ -1,5 +1,4 @@
 # GPT-4 Powered AI Article Summarizer in React JS and Redux Toolkit
-
 ![AI Summarizer](https://projects.arslanstack.com/photos/summarizer/1.png)
 
 ## Project Overview
